@@ -1,6 +1,6 @@
 ## Hi there! I'm Allison (she/her)
 
-Welcome to my GitHub profile! Check out my website (allisonpayne.github.io) for more. 
+Welcome to my GitHub profile! Check out my website ([allisonpayne.github.io](https://allisonpayne.github.io/)) for more. 
 
 <!--
 **allisonpayne/allisonpayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
